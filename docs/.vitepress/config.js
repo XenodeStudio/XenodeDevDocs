@@ -9,6 +9,10 @@ export default {
         sidebar: [
             { text: 'Contributing Guidelines',   link: '/contributing.md' },
             { text: 'Code of Conduct',           link: '/code_of_conduct.md' }
-        ]
+        ],
+
+        footer: {
+            message: 'Built with love by the Xenode Studio team.'
+        }
     }
 }

@@ -1,3 +1,8 @@
+---
+title: Home Page
+description: Home Page of the Xenode Dev Documentation Site.
+---
+
 # Welcome to Xenode Developer Documentation!
 
 We are thrilled to welcome you to the **Xenode Developer Documentation!** This is your comprehensive resource for understanding and utilizing the Xenode game engine, a tool designed to empower game developers of all levels.

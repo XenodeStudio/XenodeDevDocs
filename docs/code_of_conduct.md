@@ -1,3 +1,8 @@
+---
+title: Code of Conduct
+description: Code of Conduct while contributing the Projects owned by Xenode Studio.
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

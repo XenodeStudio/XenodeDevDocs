@@ -2,6 +2,8 @@ export default {
     base: '/XenodeDevDocs/',
 
     title: 'Xenode Dev Documentation',
+    description: 'The developer documentation for the game engine Xenode.',
+
     themeConfig: {
         nav: [
             { text: 'GitHub',                    link: 'https://github.com/XenodeStudio' },

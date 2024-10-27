@@ -1,3 +1,8 @@
+---
+title: Contributing Guidelines
+description: Contributing Guidelines of the Projects owned by Xenode Studio.
+---
+
 # Contributing Guidelines
 
 So you have decided to contribute to projects at **Xenode Studio**. Thank you for your interest in contributing to Xenode:tada: We welcome contributions from the community and appreciate your support in making our game engine better.

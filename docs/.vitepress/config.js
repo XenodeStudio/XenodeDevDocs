@@ -41,14 +41,14 @@ export default {
           </url>
 
           <url>
-            <loc>https://xenodestudio.github.io/contributing</loc>
+            <loc>https://xenodestudio.github.io/XenodeDevDocs/contributing</loc>
             <lastmod>${new Date().toISOString()}</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
           </url>
 
           <url>
-            <loc>https://xenodestudio.github.io/code_of_conduct</loc>
+            <loc>https://xenodestudio.github.io/XenodeDevDocs/code_of_conduct</loc>
             <lastmod>${new Date().toISOString()}</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>

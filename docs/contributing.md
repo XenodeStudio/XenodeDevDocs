@@ -51,7 +51,7 @@ git checkout -b my-new-branch-that-does-this
 
 ### Obtain the source code and build.
 
-[Click here]() to obtain instructions to build Xenode. 
+[Click here](/building.md) to obtain instructions to build Xenode. 
 
 ### Making Code Changes.
 

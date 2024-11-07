@@ -13,7 +13,8 @@ export default {
         ],
         sidebar: [
             { text: 'Contributing Guidelines',   link: '/contributing.md' },
-            { text: 'Code of Conduct',           link: '/code_of_conduct.md' }
+            { text: 'Code of Conduct',           link: '/code_of_conduct.md' },
+            { text: 'Building from Source',      link: '/building.md' }
         ],
 
         footer: {
@@ -49,6 +50,12 @@ export default {
 
           <url>
             <loc>https://xenodestudio.github.io/XenodeDevDocs/code_of_conduct</loc>
+            <lastmod>${new Date().toISOString()}</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+          </url>
+          <url>
+            <loc>https://xenodestudio.github.io/XenodeDevDocs/building</loc>
             <lastmod>${new Date().toISOString()}</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
